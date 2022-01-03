@@ -12,7 +12,7 @@
 2. mfcc extraction practice
 3. GMM practice
 4. project
-  - input : 5명의 화자에 대한 데이터
-  - mfcc extraction
-  - 5명의 화자에 대한 GMM모델
-  - test
+    - input : 5명의 화자에 대한 데이터
+    - mfcc extraction
+    - 5명의 화자에 대한 GMM모델
+    - test
